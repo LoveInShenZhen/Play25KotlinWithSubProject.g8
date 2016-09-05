@@ -12,6 +12,7 @@ addSbtPlugin("com.typesafe.sbt" % "sbt-play-enhancer" % "1.1.0")
 addSbtPlugin("com.typesafe.sbt" % "sbt-play-ebean" % "3.0.0")
 
 // kotlin plugin
+// addSbtPlugin("com.hanhuy.kk.sbt" % "kotlin-plugin" % "1.0.5")
 addSbtPlugin("com.hanhuy.sbt" % "kotlin-plugin" % "$KotlinPluginVersion$")
 
 addSbtPlugin("net.virtual-void" % "sbt-dependency-graph" % "0.8.2")
