@@ -14,9 +14,6 @@ libraryDependencies ++= Seq(
   javaWs
 )
 
-kotlinLib("stdlib")
-kotlinLib("reflect")
-
 libraryDependencies += filters
 
 libraryDependencies += "org.jodd" % "jodd-core" % "3.7"
